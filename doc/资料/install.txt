@@ -1,0 +1,16 @@
+
+一键安装
+Debian/Ubuntu：
+apt-get install libevent-dev 
+
+Redhat/Centos：
+yum install libevent-devel
+
+
+
+编译并安装
+wget http://memcached.org/latest
+
+tar -zxvf memcached-1.xxtar.gz
+cd memcached-1.xx
+./configure && make && make test && sudo make install
