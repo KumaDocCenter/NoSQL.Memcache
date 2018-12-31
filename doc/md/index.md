@@ -1,5 +1,5 @@
 ---
-title: NoSQL.Memcache 索引
+title: Index
 mathjax: false
 categories:
   - Dev
@@ -9,7 +9,7 @@ typora-copy-images-to: index
 date: 2018-12-29 15:06:48
 updated: 2018-12-29 15:06:48
 tags:
-top:
+top: 0
 ---
 
 
